@@ -1,37 +1,10 @@
-## Welcome to GitHub Pages
+## Design Patterns in Python
 
-You can use the [editor on GitHub](https://github.com/ettoreaquino/python-design-patterns/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+This is a simple project to test and improve design patterns implementation using Python. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+The initial implementations are based on the book by _Chetan Giridhar_ called [Learning Python Design Patterns](https://www.amazon.com/Learning-Python-Design-Patterns-Second-ebook/dp/B018XYKNOM). It is a very simple and objetive book, which lacks a lot of information but was quite usefull to consult.
 
-### Markdown
+The main reference for Design Patterns is the book _Design Patterns: Elements of Reusable Object-Oriented Software_ by Erich Gamma, Richard Helm, Ralph Johnson and John Vlissides.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ettoreaquino/python-design-patterns/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Why Python?
+Python is very fun to learn, very quick to get stuff out of it and very usefull for smaller tasks such as calculating things and glueing together other usefull packages. It became just too popular to avoid but it is far from being a language designed to tackle software complexity.
